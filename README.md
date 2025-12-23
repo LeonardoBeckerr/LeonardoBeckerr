@@ -24,10 +24,15 @@ Busco uma **oportunidade de estágio em desenvolvimento**, onde eu possa aprende
 
 ---
 
-## 📌 Projeto em destaque
-🔹 **Sistema Água Pura**  
-Sistema web desenvolvido como projeto final do ano do curso, com CRUD completo, autenticação de usuários e integração com banco de dados MySQL.  
-👉 Repositório fixado abaixo no perfil.
+## 🚀 Meus Projetos
+
+### [AGUAPURA](https://github.com/ddsc-sts/AGUAPURA)
+Plataforma de **venda de garrafas térmicas** com serviço de personalização de produtos. Site desenvolvido com foco em e-commerce e experiência do usuário.
+
+
+### [Adovacia-Voltolini](https://github.com/LeonardoBeckerr/Advocacia-Voltolini)
+Site institucional estático para escritório de advocacia, desenvolvido com HTML, CSS e JavaScript, com design responsivo.
+
 
 ---
 
