@@ -33,6 +33,9 @@ Plataforma de **venda de garrafas térmicas** com serviço de personalização d
 ### [Adovacia-Voltolini](https://github.com/LeonardoBeckerr/Advocacia-Voltolini)
 Site institucional estático para escritório de advocacia, desenvolvido com HTML, CSS e JavaScript, com design responsivo.
 
+### [Rummikub](https://github.com/LeonardoBeckerr/Rummikub)
+Página web informativa sobre o jogo Rummikub, com explicação de regras e dinâmica de jogo.
+
 
 ---
 
