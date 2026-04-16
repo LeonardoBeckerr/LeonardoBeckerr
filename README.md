@@ -36,6 +36,9 @@ Site institucional estático para escritório de advocacia, desenvolvido com HTM
 ### [Rummikub](https://github.com/LeonardoBeckerr/Rummikub)
 Página web informativa sobre o jogo Rummikub, com explicação de regras e dinâmica de jogo.
 
+### [Pizzaria DALEGÉ](https://github.com/ddsc-sts/Pizzaria-Dalege)
+Sistema de cardápio digital interativo projetado para modernizar o atendimento em restaurantes.
+
 
 ---
 
