@@ -26,6 +26,9 @@ Busco uma **oportunidade de estágio em desenvolvimento**, onde eu possa aprende
 
 ## 🚀 Meus Projetos
 
+### [Re.source](https://github.com/ddsc-sts/re.source)
+uma plataforma B2B onde empresas podem anunciar, buscar e negociar resíduos industriais, incentivando economia circular e reaproveitamento de materiais.
+
 ### [AGUAPURA](https://github.com/ddsc-sts/AGUAPURA)
 Plataforma de **venda de garrafas térmicas** com serviço de personalização de produtos. Site desenvolvido com foco em e-commerce e experiência do usuário.
 
